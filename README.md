@@ -143,6 +143,7 @@ Le fichier porte sur les naissances en France, pas sur la population vivante. Il
 
 4) Changer les filtres, puis présenter la conclusion et les limites.
 
+(désolé pour la qualité de mon micro, mais je n'ai pas pu trouver mieux malheureusement)
 
 
 ## Liens de remise
@@ -152,5 +153,5 @@ Le fichier porte sur les naissances en France, pas sur la population vivante. Il
 
 - Dépôt : (https://github.com/BilelBilelB/projet-streamlit-bilel)
 
-- Vidéo : \[Lien vidéo ou fichier joint à la remise]
+- Vidéo : fichier demo.mp4 joint
 
